@@ -1,4 +1,4 @@
-- 🌐 Aspiring Cloud Systems Engineer with a focus on Cybersecurity and Networking.
+- 🌐 Cloud Systems Engineer with a focus on Cybersecurity and Networking.
 - 🎓 CSU Graduate in Computer Science, with a concentration in Networks and Security.
 - 🔧 I’m passionate about designing cloud-based systems that enhance security, scalability, and quality of life through innovative and reliable infrastructure solutions.
 - 🚀 Experienced in cloud infrastructure, containerization (Docker, Docker Compose), and building modular systems for projects such as:
