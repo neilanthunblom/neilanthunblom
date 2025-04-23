@@ -28,7 +28,7 @@ Cloud-native e-commerce platform with React/TypeScript frontend and Java Spring 
 - Automated CI/CD for fast, reliable releases  
 - 80% cost reduction & 40% FCP improvement
 
-### Assistan Volunteer Management  
+### Assistan Charitable Organization Ops Management  
 Multi-tenant PHP/React app for charities, featuring:  
 - Conference-based RBAC & six-digit OTP 2FA  
 - Cryptographically signed APIs  
