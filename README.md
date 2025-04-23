@@ -51,7 +51,6 @@ Python-based infrastructure monitor that:
 
 ---
 
-## 📫 Get in Touch  
-- Email: neilan@thunblom.com  
+## Get in Touch
 - GitHub: github.com/neilanthunblom  
 - LinkedIn: linkedin.com/in/neilan-thunblom  
